@@ -1,8 +1,6 @@
 # Hello 👋
 ## My name is Michael Grueter
-### Computer Science Student at Keene State College
-
-I'm currently a student building a career in technology. My interests include agriculture, aerospace, and Humanitarian aid. 
+I'm currently a CS student building a career in technology. My interests include agriculture, aerospace, and Humanitarian aid. 
 
 
 - 🔭 I’m currently working on ...
