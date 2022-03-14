@@ -10,7 +10,7 @@ I'm currently a CS student building a career in technology. My interests include
 - Java, Python, Computer Archetecture, Web development, and Calculus
 
 - 👯 I’m looking to collaborate on ...
-- Robotics, Agricultural anylitics, Engineering based projects 
+- Agricultural anylitics, Engineering based projects 
 
 - 🤔 I’m looking for help with ...
 - Building a future in tech.  
